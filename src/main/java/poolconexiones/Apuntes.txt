@@ -1,0 +1,5 @@
+POOL de Conexiones
+A nivel empresarial se usa pool de conexiones
+    - Tener listas las peticiones a la Base de Datos
+    - Evitar estar abriendo y cerrando conexiones a nivel individual
+    -
