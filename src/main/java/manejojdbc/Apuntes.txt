@@ -1,0 +1,2 @@
+Las conexiones para cada sentencia sql
+Inicia y cierra para cada una
