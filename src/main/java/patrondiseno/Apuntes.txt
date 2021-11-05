@@ -1,0 +1,20 @@
+Capas
+Cada capa tiene su funcionalidad
+- Capa de presentación
+    - Flujo de pantallas
+
+- Capa de negocio
+    - Lógica del negocio
+    - Servicios del sistema
+
+- Capa de datos
+    - Obtiene y guarda información
+
+Cohesión y acoplamiento
+El objetivo del diseño es minimizar costos
+Cohesión: componente de software que realiza la tarea para la que fue creada
+Acoplamiento: componente que necesita de otro componente para su función
+
+El objetivo del diseño de software es tener una alta cohesión y un bajo
+acoplamiento entre sus componentes
+
