@@ -1,0 +1,5 @@
+- Una sola conexión para varias sentencias sql a la vez, lo que evita estar creando conexiones y cerrando
+antes de iniciar con otra
+
+- Si todas las sentencias sql son correctas se ejecuta, caso contrario realiza rollback, es decir, que anula
+las demas sentencias
